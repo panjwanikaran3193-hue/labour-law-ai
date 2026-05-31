@@ -1,0 +1,343 @@
+2026-05-17 16:14:46,630  INFO      
+2026-05-17 16:14:46,631  INFO      ════════════════════════════════════════════════════════════════════════
+2026-05-17 16:14:46,631  INFO        CATEGORY : ACTS
+2026-05-17 16:14:46,632  INFO        URL      : https://www.simpliance.in/India/LEI/acts
+2026-05-17 16:14:46,632  INFO        FOLDER   : E:\AICA 2\LABOUR LAW COMPILER\acts
+2026-05-17 16:14:46,632  INFO      ════════════════════════════════════════════════════════════════════════
+2026-05-17 16:14:46,633  INFO        Page 1 → https://www.simpliance.in/India/LEI/acts
+2026-05-17 16:14:47,043  INFO      ====== WebDriver manager ======
+2026-05-17 16:14:49,741  INFO      Get LATEST chromedriver version for google-chrome
+2026-05-17 16:14:51,336  INFO      Get LATEST chromedriver version for google-chrome
+2026-05-17 16:14:53,360  INFO      There is no [win64] chromedriver "148.0.7778.167" for browser google-chrome "148.0.7778" in cache
+2026-05-17 16:14:53,361  INFO      Get LATEST chromedriver version for google-chrome
+2026-05-17 16:14:55,438  INFO      WebDriver version 148.0.7778.167 selected
+2026-05-17 16:14:55,457  INFO      Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/148.0.7778.167/win32/chromedriver-win32.zip
+2026-05-17 16:14:55,458  INFO      About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/148.0.7778.167/win32/chromedriver-win32.zip
+2026-05-17 16:14:56,401  INFO      Driver downloading response is 200
+2026-05-17 16:14:57,161  INFO      Get LATEST chromedriver version for google-chrome
+2026-05-17 16:14:57,929  INFO      Driver has been saved in cache [C:\Users\panjw\.wdm\drivers\chromedriver\win64\148.0.7778.167]
+2026-05-17 16:15:11,655  INFO          5 links on page 1 (total so far: 5)
+2026-05-17 16:15:13,693  INFO      ====== WebDriver manager ======
+2026-05-17 16:15:15,864  INFO      Get LATEST chromedriver version for google-chrome
+2026-05-17 16:15:16,940  INFO      Get LATEST chromedriver version for google-chrome
+2026-05-17 16:15:18,405  INFO      Driver [C:\Users\panjw\.wdm\drivers\chromedriver\win64\148.0.7778.167\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-17 16:15:30,996  INFO      Unique links after dedup: 5
+2026-05-17 16:15:30,997  INFO        Resolving detail 1/5: https://www.simpliance.in/India/LEI/acts/Andaman-and-Nicobar-Islands/the-andaman
+2026-05-17 16:15:32,499  INFO      ====== WebDriver manager ======
+2026-05-17 16:15:34,447  INFO      Get LATEST chromedriver version for google-chrome
+2026-05-17 16:15:35,756  INFO      Get LATEST chromedriver version for google-chrome
+2026-05-17 16:15:36,982  INFO      Driver [C:\Users\panjw\.wdm\drivers\chromedriver\win64\148.0.7778.167\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-17 16:15:44,251  INFO        Resolving detail 2/5: https://www.simpliance.in/India/LEI/acts/Andaman-and-Nicobar-Islands/the-andaman
+2026-05-17 16:15:45,753  INFO      ====== WebDriver manager ======
+2026-05-17 16:15:47,696  INFO      Get LATEST chromedriver version for google-chrome
+2026-05-17 16:15:49,193  INFO      Get LATEST chromedriver version for google-chrome
+2026-05-17 16:15:51,298  INFO      Driver [C:\Users\panjw\.wdm\drivers\chromedriver\win64\148.0.7778.167\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-17 16:15:58,898  INFO        Resolving detail 3/5: https://www.simpliance.in/India/LEI/acts/Andhra-Pradesh/the-andhra-pradesh-munic
+2026-05-17 16:16:00,399  INFO      ====== WebDriver manager ======
+2026-05-17 16:16:02,351  INFO      Get LATEST chromedriver version for google-chrome
+2026-05-17 16:16:04,123  INFO      Get LATEST chromedriver version for google-chrome
+2026-05-17 16:16:06,322  INFO      Driver [C:\Users\panjw\.wdm\drivers\chromedriver\win64\148.0.7778.167\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-17 16:16:14,035  INFO        Resolving detail 4/5: https://www.simpliance.in/India/LEI/acts/Andhra-Pradesh/the-andhra-pradesh-tax-o
+2026-05-17 16:16:15,537  INFO      ====== WebDriver manager ======
+2026-05-17 16:16:17,741  INFO      Get LATEST chromedriver version for google-chrome
+2026-05-17 16:16:19,106  INFO      Get LATEST chromedriver version for google-chrome
+2026-05-17 16:16:20,384  INFO      Driver [C:\Users\panjw\.wdm\drivers\chromedriver\win64\148.0.7778.167\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-17 16:16:27,756  INFO        Resolving detail 5/5: https://www.simpliance.in/India/LEI/acts/Andhra-Pradesh/andhra-pradesh-labour-we
+2026-05-17 16:16:29,259  INFO      ====== WebDriver manager ======
+2026-05-17 16:16:31,260  INFO      Get LATEST chromedriver version for google-chrome
+2026-05-17 16:16:34,088  INFO      Get LATEST chromedriver version for google-chrome
+2026-05-17 16:16:35,150  INFO      Driver [C:\Users\panjw\.wdm\drivers\chromedriver\win64\148.0.7778.167\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-17 16:16:42,548  INFO      File records to download: 5
+2026-05-17 16:16:42,634  INFO      Done 'acts': 5 records | 0 downloaded | 5 skipped/failed
+2026-05-17 16:16:42,635  INFO      
+2026-05-17 16:16:42,635  INFO      ════════════════════════════════════════════════════════════════════════
+2026-05-17 16:16:42,636  INFO        CATEGORY : LABOUR_CODES
+2026-05-17 16:16:42,636  INFO        URL      : https://www.simpliance.in/India/LEI/labour-codes
+2026-05-17 16:16:42,636  INFO        FOLDER   : E:\AICA 2\LABOUR LAW COMPILER\acts\labour_codes
+2026-05-17 16:16:42,637  INFO      ════════════════════════════════════════════════════════════════════════
+2026-05-17 16:16:42,637  INFO        Page 1 → https://www.simpliance.in/India/LEI/labour-codes
+2026-05-17 16:16:42,637  INFO      ====== WebDriver manager ======
+2026-05-17 16:16:44,677  INFO      Get LATEST chromedriver version for google-chrome
+2026-05-17 16:16:46,159  INFO      Get LATEST chromedriver version for google-chrome
+2026-05-17 16:16:47,378  INFO      Driver [C:\Users\panjw\.wdm\drivers\chromedriver\win64\148.0.7778.167\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-17 16:16:54,651  INFO          0 links on page 1 (total so far: 0)
+2026-05-17 16:16:56,653  INFO      ====== WebDriver manager ======
+2026-05-17 16:16:58,620  INFO      Get LATEST chromedriver version for google-chrome
+2026-05-17 16:17:01,066  INFO      Get LATEST chromedriver version for google-chrome
+2026-05-17 16:17:02,182  INFO      Driver [C:\Users\panjw\.wdm\drivers\chromedriver\win64\148.0.7778.167\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-17 16:17:09,615  INFO      Unique links after dedup: 0
+2026-05-17 16:17:09,615  INFO      File records to download: 0
+2026-05-17 16:17:09,624  INFO      Done 'labour_codes': 0 records | 0 downloaded | 0 skipped/failed
+2026-05-17 16:17:09,625  INFO      
+2026-05-17 16:17:09,625  INFO      ════════════════════════════════════════════════════════════════════════
+2026-05-17 16:17:09,626  INFO        CATEGORY : RULES
+2026-05-17 16:17:09,627  INFO        URL      : https://www.simpliance.in/India/LEI/rules
+2026-05-17 16:17:09,627  INFO        FOLDER   : E:\AICA 2\LABOUR LAW COMPILER\rules
+2026-05-17 16:17:09,628  INFO      ════════════════════════════════════════════════════════════════════════
+2026-05-17 16:17:09,628  INFO        Page 1 → https://www.simpliance.in/India/LEI/rules
+2026-05-17 16:17:09,629  INFO      ====== WebDriver manager ======
+2026-05-17 16:17:11,710  INFO      Get LATEST chromedriver version for google-chrome
+2026-05-17 16:17:13,271  INFO      Get LATEST chromedriver version for google-chrome
+2026-05-17 16:17:13,841  INFO      Driver [C:\Users\panjw\.wdm\drivers\chromedriver\win64\148.0.7778.167\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-17 16:17:30,389  INFO          5 links on page 1 (total so far: 5)
+2026-05-17 16:17:32,398  INFO      ====== WebDriver manager ======
+2026-05-17 16:17:34,470  INFO      Get LATEST chromedriver version for google-chrome
+2026-05-17 16:17:35,852  INFO      Get LATEST chromedriver version for google-chrome
+2026-05-17 16:17:36,695  INFO      Driver [C:\Users\panjw\.wdm\drivers\chromedriver\win64\148.0.7778.167\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-17 16:17:49,141  INFO      Unique links after dedup: 5
+2026-05-17 16:17:49,142  INFO        Resolving detail 1/5: https://www.simpliance.in/India/LEI/rules/Andaman-and-Nicobar-Islands/andaman-an
+2026-05-17 16:17:50,643  INFO      ====== WebDriver manager ======
+2026-05-17 16:17:52,581  INFO      Get LATEST chromedriver version for google-chrome
+2026-05-17 16:17:53,589  INFO      Get LATEST chromedriver version for google-chrome
+2026-05-17 16:17:55,135  INFO      Driver [C:\Users\panjw\.wdm\drivers\chromedriver\win64\148.0.7778.167\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-17 16:18:06,326  INFO        Resolving detail 2/5: https://www.simpliance.in/India/LEI/rules/Andaman-and-Nicobar-Islands/andaman-an
+2026-05-17 16:18:07,827  INFO      ====== WebDriver manager ======
+2026-05-17 16:18:09,837  INFO      Get LATEST chromedriver version for google-chrome
+2026-05-17 16:18:10,970  INFO      Get LATEST chromedriver version for google-chrome
+2026-05-17 16:18:11,588  INFO      Driver [C:\Users\panjw\.wdm\drivers\chromedriver\win64\148.0.7778.167\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-17 16:18:21,940  INFO        Resolving detail 3/5: https://www.simpliance.in/India/LEI/rules/Andaman-and-Nicobar-Islands/andaman-an
+2026-05-17 16:18:23,441  INFO      ====== WebDriver manager ======
+2026-05-17 16:18:25,394  INFO      Get LATEST chromedriver version for google-chrome
+2026-05-17 16:18:27,381  INFO      Get LATEST chromedriver version for google-chrome
+2026-05-17 16:18:28,806  INFO      Driver [C:\Users\panjw\.wdm\drivers\chromedriver\win64\148.0.7778.167\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-17 16:18:40,537  INFO        Resolving detail 4/5: https://www.simpliance.in/India/LEI/rules/Andaman-and-Nicobar-Islands/andaman-an
+2026-05-17 16:18:42,039  INFO      ====== WebDriver manager ======
+2026-05-17 16:18:44,013  INFO      Get LATEST chromedriver version for google-chrome
+2026-05-17 16:18:45,402  INFO      Get LATEST chromedriver version for google-chrome
+2026-05-17 16:18:46,327  INFO      Driver [C:\Users\panjw\.wdm\drivers\chromedriver\win64\148.0.7778.167\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-17 16:18:59,164  INFO        Resolving detail 5/5: https://www.simpliance.in/India/LEI/rules/Andaman-and-Nicobar-Islands/andaman-an
+2026-05-17 16:19:00,666  INFO      ====== WebDriver manager ======
+2026-05-17 16:19:02,718  INFO      Get LATEST chromedriver version for google-chrome
+2026-05-17 16:19:04,674  INFO      Get LATEST chromedriver version for google-chrome
+2026-05-17 16:19:05,528  INFO      Driver [C:\Users\panjw\.wdm\drivers\chromedriver\win64\148.0.7778.167\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-17 16:19:16,256  INFO      File records to download: 5
+2026-05-17 16:19:16,259  INFO      Done 'rules': 5 records | 0 downloaded | 5 skipped/failed
+2026-05-17 16:19:16,260  INFO      
+2026-05-17 16:19:16,260  INFO      ════════════════════════════════════════════════════════════════════════
+2026-05-17 16:19:16,261  INFO        CATEGORY : GAZETTE_NOTIFICATIONS
+2026-05-17 16:19:16,261  INFO        URL      : https://www.simpliance.in/India/LEI/gazette-notifications
+2026-05-17 16:19:16,262  INFO        FOLDER   : E:\AICA 2\LABOUR LAW COMPILER\notifications
+2026-05-17 16:19:16,262  INFO      ════════════════════════════════════════════════════════════════════════
+2026-05-17 16:19:16,262  INFO        Page 1 → https://www.simpliance.in/India/LEI/gazette-notifications
+2026-05-17 16:19:16,263  INFO      ====== WebDriver manager ======
+2026-05-17 16:19:18,243  INFO      Get LATEST chromedriver version for google-chrome
+2026-05-17 16:19:19,697  INFO      Get LATEST chromedriver version for google-chrome
+2026-05-17 16:19:20,529  INFO      Driver [C:\Users\panjw\.wdm\drivers\chromedriver\win64\148.0.7778.167\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-17 16:19:27,660  INFO          0 links on page 1 (total so far: 0)
+2026-05-17 16:19:29,661  INFO      ====== WebDriver manager ======
+2026-05-17 16:19:31,690  INFO      Get LATEST chromedriver version for google-chrome
+2026-05-17 16:19:33,427  INFO      Get LATEST chromedriver version for google-chrome
+2026-05-17 16:19:34,458  INFO      Driver [C:\Users\panjw\.wdm\drivers\chromedriver\win64\148.0.7778.167\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-17 16:19:41,733  INFO      Unique links after dedup: 0
+2026-05-17 16:19:41,768  INFO      File records to download: 0
+2026-05-17 16:19:41,795  INFO      Done 'gazette_notifications': 0 records | 0 downloaded | 0 skipped/failed
+2026-05-17 16:19:41,805  INFO      
+2026-05-17 16:19:41,806  INFO      ════════════════════════════════════════════════════════════════════════
+2026-05-17 16:19:41,807  INFO        CATEGORY : CIRCULARS
+2026-05-17 16:19:41,808  INFO        URL      : https://www.simpliance.in/India/LEI/circulars
+2026-05-17 16:19:41,808  INFO        FOLDER   : E:\AICA 2\LABOUR LAW COMPILER\circulars
+2026-05-17 16:19:41,808  INFO      ════════════════════════════════════════════════════════════════════════
+2026-05-17 16:19:41,809  INFO        Page 1 → https://www.simpliance.in/India/LEI/circulars
+2026-05-17 16:19:41,809  INFO      ====== WebDriver manager ======
+2026-05-17 16:19:43,825  INFO      Get LATEST chromedriver version for google-chrome
+2026-05-17 16:19:44,412  INFO      Get LATEST chromedriver version for google-chrome
+2026-05-17 16:19:44,994  INFO      Driver [C:\Users\panjw\.wdm\drivers\chromedriver\win64\148.0.7778.167\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-17 16:19:52,044  INFO          0 links on page 1 (total so far: 0)
+2026-05-17 16:19:54,046  INFO      ====== WebDriver manager ======
+2026-05-17 16:19:55,973  INFO      Get LATEST chromedriver version for google-chrome
+2026-05-17 16:19:57,117  INFO      Get LATEST chromedriver version for google-chrome
+2026-05-17 16:19:57,838  INFO      Driver [C:\Users\panjw\.wdm\drivers\chromedriver\win64\148.0.7778.167\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-17 16:20:04,835  INFO      Unique links after dedup: 0
+2026-05-17 16:20:04,836  INFO      File records to download: 0
+2026-05-17 16:20:04,837  INFO      Done 'circulars': 0 records | 0 downloaded | 0 skipped/failed
+2026-05-17 16:20:04,838  INFO      
+2026-05-17 16:20:04,839  INFO      ════════════════════════════════════════════════════════════════════════
+2026-05-17 16:20:04,839  INFO        CATEGORY : SCHEMES
+2026-05-17 16:20:04,839  INFO        URL      : https://www.simpliance.in/India/LEI/schemes
+2026-05-17 16:20:04,840  INFO        FOLDER   : E:\AICA 2\LABOUR LAW COMPILER\database
+2026-05-17 16:20:04,840  INFO      ════════════════════════════════════════════════════════════════════════
+2026-05-17 16:20:04,840  INFO        Page 1 → https://www.simpliance.in/India/LEI/schemes
+2026-05-17 16:20:04,841  INFO      ====== WebDriver manager ======
+2026-05-17 16:20:06,844  INFO      Get LATEST chromedriver version for google-chrome
+2026-05-17 16:20:08,450  INFO      Get LATEST chromedriver version for google-chrome
+2026-05-17 16:20:09,683  INFO      Driver [C:\Users\panjw\.wdm\drivers\chromedriver\win64\148.0.7778.167\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-17 16:20:19,634  INFO          5 links on page 1 (total so far: 5)
+2026-05-17 16:20:21,646  INFO      ====== WebDriver manager ======
+2026-05-17 16:20:23,655  INFO      Get LATEST chromedriver version for google-chrome
+2026-05-17 16:20:24,711  INFO      Get LATEST chromedriver version for google-chrome
+2026-05-17 16:20:25,468  INFO      Driver [C:\Users\panjw\.wdm\drivers\chromedriver\win64\148.0.7778.167\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-17 16:20:38,425  INFO      Unique links after dedup: 5
+2026-05-17 16:20:38,426  INFO        Resolving detail 1/5: https://www.simpliance.in/India/LEI/schemes/Central/employees-deposit-linked-ins
+2026-05-17 16:20:39,927  INFO      ====== WebDriver manager ======
+2026-05-17 16:20:41,937  INFO      Get LATEST chromedriver version for google-chrome
+2026-05-17 16:20:43,224  INFO      Get LATEST chromedriver version for google-chrome
+2026-05-17 16:20:44,509  INFO      Driver [C:\Users\panjw\.wdm\drivers\chromedriver\win64\148.0.7778.167\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-17 16:21:00,948  INFO        Resolving detail 2/5: https://www.simpliance.in/India/LEI/schemes/Central/employees-deposit-linked-ins
+2026-05-17 16:21:02,450  INFO      ====== WebDriver manager ======
+2026-05-17 16:21:04,629  INFO      Get LATEST chromedriver version for google-chrome
+2026-05-17 16:21:07,227  INFO      Get LATEST chromedriver version for google-chrome
+2026-05-17 16:21:09,310  INFO      Driver [C:\Users\panjw\.wdm\drivers\chromedriver\win64\148.0.7778.167\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-17 16:21:20,624  INFO        Resolving detail 3/5: https://www.simpliance.in/India/LEI/schemes/Central/employees-provident-funds-sc
+2026-05-17 16:21:22,125  INFO      ====== WebDriver manager ======
+2026-05-17 16:21:24,074  INFO      Get LATEST chromedriver version for google-chrome
+2026-05-17 16:21:24,841  INFO      Get LATEST chromedriver version for google-chrome
+2026-05-17 16:21:25,771  INFO      Driver [C:\Users\panjw\.wdm\drivers\chromedriver\win64\148.0.7778.167\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-17 16:21:36,034  INFO        Resolving detail 4/5: https://www.simpliance.in/India/LEI/schemes/Central/employees-deposit-linked-ins
+2026-05-17 16:21:37,536  INFO      ====== WebDriver manager ======
+2026-05-17 16:21:39,460  INFO      Get LATEST chromedriver version for google-chrome
+2026-05-17 16:21:40,364  INFO      Get LATEST chromedriver version for google-chrome
+2026-05-17 16:21:41,594  INFO      Driver [C:\Users\panjw\.wdm\drivers\chromedriver\win64\148.0.7778.167\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-17 16:21:52,339  INFO        Resolving detail 5/5: https://www.simpliance.in/India/LEI/schemes/Central/employees-pension-scheme-199
+2026-05-17 16:21:53,840  INFO      ====== WebDriver manager ======
+2026-05-17 16:21:55,817  INFO      Get LATEST chromedriver version for google-chrome
+2026-05-17 16:21:56,875  INFO      Get LATEST chromedriver version for google-chrome
+2026-05-17 16:21:58,389  INFO      Driver [C:\Users\panjw\.wdm\drivers\chromedriver\win64\148.0.7778.167\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-17 16:22:09,495  INFO      File records to download: 5
+2026-05-17 16:22:09,496  INFO        [2/5] Vide notification G.S.R. 299(E) dated 28 Apr 2021
+2026-05-17 16:22:13,711  INFO          [ok] Vide_notification_G.S.R._299(E)_dated_28_Apr_2021.pdf             82 KB
+2026-05-17 16:22:14,721  INFO      Done 'schemes': 5 records | 1 downloaded | 4 skipped/failed
+2026-05-17 16:22:14,722  INFO      
+2026-05-17 16:22:14,723  INFO      ════════════════════════════════════════════════════════════════════════
+2026-05-17 16:22:14,723  INFO        CATEGORY : REGULATIONS
+2026-05-17 16:22:14,723  INFO        URL      : https://www.simpliance.in/India/LEI/regulations
+2026-05-17 16:22:14,724  INFO        FOLDER   : E:\AICA 2\LABOUR LAW COMPILER\database
+2026-05-17 16:22:14,724  INFO      ════════════════════════════════════════════════════════════════════════
+2026-05-17 16:22:14,724  INFO        Page 1 → https://www.simpliance.in/India/LEI/regulations
+2026-05-17 16:22:14,725  INFO      ====== WebDriver manager ======
+2026-05-17 16:22:16,627  INFO      Get LATEST chromedriver version for google-chrome
+2026-05-17 16:22:17,232  INFO      Get LATEST chromedriver version for google-chrome
+2026-05-17 16:22:17,888  INFO      Driver [C:\Users\panjw\.wdm\drivers\chromedriver\win64\148.0.7778.167\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-17 16:22:28,119  INFO          5 links on page 1 (total so far: 5)
+2026-05-17 16:22:30,125  INFO      ====== WebDriver manager ======
+2026-05-17 16:22:32,242  INFO      Get LATEST chromedriver version for google-chrome
+2026-05-17 16:22:32,986  INFO      Get LATEST chromedriver version for google-chrome
+2026-05-17 16:22:34,393  INFO      Driver [C:\Users\panjw\.wdm\drivers\chromedriver\win64\148.0.7778.167\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-17 16:22:46,633  INFO      Unique links after dedup: 5
+2026-05-17 16:22:46,633  INFO        Resolving detail 1/5: https://www.simpliance.in/India/LEI/regulations/Andhra-Pradesh/employees-state-i
+2026-05-17 16:22:48,135  INFO      ====== WebDriver manager ======
+2026-05-17 16:22:50,148  INFO      Get LATEST chromedriver version for google-chrome
+2026-05-17 16:22:52,805  INFO      Get LATEST chromedriver version for google-chrome
+2026-05-17 16:22:54,746  INFO      Driver [C:\Users\panjw\.wdm\drivers\chromedriver\win64\148.0.7778.167\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-17 16:23:05,758  INFO        Resolving detail 2/5: https://www.simpliance.in/India/LEI/regulations/Central/central-trade-union-regu
+2026-05-17 16:23:07,259  INFO      ====== WebDriver manager ======
+2026-05-17 16:23:09,278  INFO      Get LATEST chromedriver version for google-chrome
+2026-05-17 16:23:10,931  INFO      Get LATEST chromedriver version for google-chrome
+2026-05-17 16:23:11,973  INFO      Driver [C:\Users\panjw\.wdm\drivers\chromedriver\win64\148.0.7778.167\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-17 16:23:22,517  INFO        Resolving detail 3/5: https://www.simpliance.in/India/LEI/regulations/Karnataka/karnataka-trade-union-
+2026-05-17 16:23:24,018  INFO      ====== WebDriver manager ======
+2026-05-17 16:23:26,021  INFO      Get LATEST chromedriver version for google-chrome
+2026-05-17 16:23:26,808  INFO      Get LATEST chromedriver version for google-chrome
+2026-05-17 16:23:27,728  INFO      Driver [C:\Users\panjw\.wdm\drivers\chromedriver\win64\148.0.7778.167\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-17 16:23:39,311  INFO        Resolving detail 4/5: https://www.simpliance.in/India/LEI/regulations/Kerala/kerala-trade-unions-regul
+2026-05-17 16:23:40,812  INFO      ====== WebDriver manager ======
+2026-05-17 16:23:42,710  INFO      Get LATEST chromedriver version for google-chrome
+2026-05-17 16:23:44,077  INFO      Get LATEST chromedriver version for google-chrome
+2026-05-17 16:23:45,563  INFO      Driver [C:\Users\panjw\.wdm\drivers\chromedriver\win64\148.0.7778.167\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-17 16:23:55,590  INFO        Resolving detail 5/5: https://www.simpliance.in/India/LEI/regulations/Madhya-Pradesh/madhya-pradesh-tr
+2026-05-17 16:23:57,091  INFO      ====== WebDriver manager ======
+2026-05-17 16:23:58,989  INFO      Get LATEST chromedriver version for google-chrome
+2026-05-17 16:24:01,005  INFO      Get LATEST chromedriver version for google-chrome
+2026-05-17 16:24:02,785  INFO      Driver [C:\Users\panjw\.wdm\drivers\chromedriver\win64\148.0.7778.167\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-17 16:24:12,330  INFO      File records to download: 5
+2026-05-17 16:24:12,333  INFO      Done 'regulations': 5 records | 0 downloaded | 5 skipped/failed
+2026-05-17 16:24:12,334  INFO      
+2026-05-17 16:24:12,334  INFO      ════════════════════════════════════════════════════════════════════════
+2026-05-17 16:24:12,334  INFO        CATEGORY : LABOUR_WELFARE_FUND
+2026-05-17 16:24:12,335  INFO        URL      : https://www.simpliance.in/India/LEI/labour-welfare-fund
+2026-05-17 16:24:12,335  INFO        FOLDER   : E:\AICA 2\LABOUR LAW COMPILER\forms
+2026-05-17 16:24:12,335  INFO      ════════════════════════════════════════════════════════════════════════
+2026-05-17 16:24:12,336  INFO        Page 1 → https://www.simpliance.in/India/LEI/labour-welfare-fund
+2026-05-17 16:24:12,336  INFO      ====== WebDriver manager ======
+2026-05-17 16:24:14,267  INFO      Get LATEST chromedriver version for google-chrome
+2026-05-17 16:24:15,726  INFO      Get LATEST chromedriver version for google-chrome
+2026-05-17 16:24:16,593  INFO      Driver [C:\Users\panjw\.wdm\drivers\chromedriver\win64\148.0.7778.167\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-17 16:24:23,876  INFO          0 links on page 1 (total so far: 0)
+2026-05-17 16:24:25,878  INFO      ====== WebDriver manager ======
+2026-05-17 16:24:27,778  INFO      Get LATEST chromedriver version for google-chrome
+2026-05-17 16:24:28,789  INFO      Get LATEST chromedriver version for google-chrome
+2026-05-17 16:24:30,844  INFO      Driver [C:\Users\panjw\.wdm\drivers\chromedriver\win64\148.0.7778.167\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-17 16:24:38,000  INFO      Unique links after dedup: 0
+2026-05-17 16:24:38,000  INFO      File records to download: 0
+2026-05-17 16:24:38,001  INFO      Done 'labour_welfare_fund': 0 records | 0 downloaded | 0 skipped/failed
+2026-05-17 16:24:38,002  INFO      
+2026-05-17 16:24:38,003  INFO      ════════════════════════════════════════════════════════════════════════
+2026-05-17 16:24:38,003  INFO        CATEGORY : LEAVES_WORKING_HOURS
+2026-05-17 16:24:38,003  INFO        URL      : https://www.simpliance.in/India/LEI/leaves-and-working-hours
+2026-05-17 16:24:38,003  INFO        FOLDER   : E:\AICA 2\LABOUR LAW COMPILER\rules
+2026-05-17 16:24:38,004  INFO      ════════════════════════════════════════════════════════════════════════
+2026-05-17 16:24:38,004  INFO        Page 1 → https://www.simpliance.in/India/LEI/leaves-and-working-hours
+2026-05-17 16:24:38,004  INFO      ====== WebDriver manager ======
+2026-05-17 16:24:40,208  INFO      Get LATEST chromedriver version for google-chrome
+2026-05-17 16:24:40,774  INFO      Get LATEST chromedriver version for google-chrome
+2026-05-17 16:24:41,348  INFO      Driver [C:\Users\panjw\.wdm\drivers\chromedriver\win64\148.0.7778.167\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-17 16:24:48,594  INFO          0 links on page 1 (total so far: 0)
+2026-05-17 16:24:50,596  INFO      ====== WebDriver manager ======
+2026-05-17 16:24:52,606  INFO      Get LATEST chromedriver version for google-chrome
+2026-05-17 16:24:53,916  INFO      Get LATEST chromedriver version for google-chrome
+2026-05-17 16:24:55,155  INFO      Driver [C:\Users\panjw\.wdm\drivers\chromedriver\win64\148.0.7778.167\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-17 16:25:04,646  INFO      Unique links after dedup: 0
+2026-05-17 16:25:04,647  INFO      File records to download: 0
+2026-05-17 16:25:04,647  INFO      Done 'leaves_working_hours': 0 records | 0 downloaded | 0 skipped/failed
+2026-05-17 16:25:04,648  INFO      
+2026-05-17 16:25:04,649  INFO      ════════════════════════════════════════════════════════════════════════
+2026-05-17 16:25:04,649  INFO        CATEGORY : HOLIDAYS
+2026-05-17 16:25:04,649  INFO        URL      : https://www.simpliance.in/India/LEI/holidays
+2026-05-17 16:25:04,650  INFO        FOLDER   : E:\AICA 2\LABOUR LAW COMPILER\database
+2026-05-17 16:25:04,650  INFO      ════════════════════════════════════════════════════════════════════════
+2026-05-17 16:25:04,650  INFO        Page 1 → https://www.simpliance.in/India/LEI/holidays
+2026-05-17 16:25:04,650  INFO      ====== WebDriver manager ======
+2026-05-17 16:25:06,677  INFO      Get LATEST chromedriver version for google-chrome
+2026-05-17 16:25:08,219  INFO      Get LATEST chromedriver version for google-chrome
+2026-05-17 16:25:09,718  INFO      Driver [C:\Users\panjw\.wdm\drivers\chromedriver\win64\148.0.7778.167\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-17 16:25:16,993  INFO          0 links on page 1 (total so far: 0)
+2026-05-17 16:25:18,995  INFO      ====== WebDriver manager ======
+2026-05-17 16:25:21,025  INFO      Get LATEST chromedriver version for google-chrome
+2026-05-17 16:25:23,190  INFO      Get LATEST chromedriver version for google-chrome
+2026-05-17 16:25:23,966  INFO      Driver [C:\Users\panjw\.wdm\drivers\chromedriver\win64\148.0.7778.167\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-17 16:25:31,020  INFO      Unique links after dedup: 0
+2026-05-17 16:25:31,021  INFO      File records to download: 0
+2026-05-17 16:25:31,022  INFO      Done 'holidays': 0 records | 0 downloaded | 0 skipped/failed
+2026-05-17 16:25:31,022  INFO      
+2026-05-17 16:25:31,023  INFO      ════════════════════════════════════════════════════════════════════════
+2026-05-17 16:25:31,023  INFO        CATEGORY : NFH_DETAILS
+2026-05-17 16:25:31,023  INFO        URL      : https://www.simpliance.in/India/LEI/nfh-details
+2026-05-17 16:25:31,024  INFO        FOLDER   : E:\AICA 2\LABOUR LAW COMPILER\database
+2026-05-17 16:25:31,024  INFO      ════════════════════════════════════════════════════════════════════════
+2026-05-17 16:25:31,024  INFO        Page 1 → https://www.simpliance.in/India/LEI/nfh-details
+2026-05-17 16:25:31,024  INFO      ====== WebDriver manager ======
+2026-05-17 16:25:32,940  INFO      Get LATEST chromedriver version for google-chrome
+2026-05-17 16:25:34,514  INFO      Get LATEST chromedriver version for google-chrome
+2026-05-17 16:25:36,035  INFO      Driver [C:\Users\panjw\.wdm\drivers\chromedriver\win64\148.0.7778.167\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-17 16:25:43,414  INFO          0 links on page 1 (total so far: 0)
+2026-05-17 16:25:45,416  INFO      ====== WebDriver manager ======
+2026-05-17 16:25:47,318  INFO      Get LATEST chromedriver version for google-chrome
+2026-05-17 16:25:48,813  INFO      Get LATEST chromedriver version for google-chrome
+2026-05-17 16:25:49,653  INFO      Driver [C:\Users\panjw\.wdm\drivers\chromedriver\win64\148.0.7778.167\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-17 16:25:56,644  INFO      Unique links after dedup: 0
+2026-05-17 16:25:56,645  INFO      File records to download: 0
+2026-05-17 16:25:56,646  INFO      Done 'nfh_details': 0 records | 0 downloaded | 0 skipped/failed
+2026-05-17 16:25:56,647  INFO      
+2026-05-17 16:25:56,648  INFO      ════════════════════════════════════════════════════════════════════════
+2026-05-17 16:25:56,648  INFO        CATEGORY : PROFESSIONAL_TAX
+2026-05-17 16:25:56,648  INFO        URL      : https://www.simpliance.in/India/LEI/professional-tax
+2026-05-17 16:25:56,649  INFO        FOLDER   : E:\AICA 2\LABOUR LAW COMPILER\database
+2026-05-17 16:25:56,649  INFO      ════════════════════════════════════════════════════════════════════════
+2026-05-17 16:25:56,649  INFO        Page 1 → https://www.simpliance.in/India/LEI/professional-tax
+2026-05-17 16:25:56,650  INFO      ====== WebDriver manager ======
+2026-05-17 16:25:58,635  INFO      Get LATEST chromedriver version for google-chrome
+2026-05-17 16:26:01,038  INFO      Get LATEST chromedriver version for google-chrome
+2026-05-17 16:26:02,762  INFO      Driver [C:\Users\panjw\.wdm\drivers\chromedriver\win64\148.0.7778.167\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-17 16:26:10,196  INFO          0 links on page 1 (total so far: 0)
+2026-05-17 16:26:12,197  INFO      ====== WebDriver manager ======
+2026-05-17 16:26:14,194  INFO      Get LATEST chromedriver version for google-chrome
+2026-05-17 16:26:15,583  INFO      Get LATEST chromedriver version for google-chrome
+2026-05-17 16:26:16,421  INFO      Driver [C:\Users\panjw\.wdm\drivers\chromedriver\win64\148.0.7778.167\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-17 16:26:23,744  INFO      Unique links after dedup: 0
+2026-05-17 16:26:23,744  INFO      File records to download: 0
+2026-05-17 16:26:23,745  INFO      Done 'professional_tax': 0 records | 0 downloaded | 0 skipped/failed
+2026-05-17 16:26:25,046  INFO      
+2026-05-17 16:26:25,047  INFO      ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-05-17 16:26:25,047  INFO        Excel index : E:\AICA 2\LABOUR LAW COMPILER\simpliance_index_20260517_1614.xlsx
+2026-05-17 16:26:25,048  INFO        Files saved : E:\AICA 2\LABOUR LAW COMPILER
+2026-05-17 16:26:25,048  INFO        Total time  : 698 seconds
+2026-05-17 16:26:25,048  INFO      ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

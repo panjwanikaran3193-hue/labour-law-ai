@@ -1,0 +1,191 @@
+2026-05-17 17:17:39,100  INFO      ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-05-17 17:17:39,101  INFO      SOURCE 1a — indiacode.nic.in  Central Acts
+2026-05-17 17:17:39,102  INFO      [1/31] The Employees Provident Funds And Miscellaneous Provisions Act, 1952
+2026-05-17 17:17:39,943  INFO          [ok] epf_act_1952.pdf                                                       17 KB
+2026-05-17 17:17:41,446  INFO      [2/31] The Code on Wages, 2019
+2026-05-17 17:17:42,080  INFO          [ok] code_on_wages_2019.pdf                                                 17 KB
+2026-05-17 17:17:43,584  INFO      [3/31] The Code on Social Security, 2020
+2026-05-17 17:17:44,208  INFO          [ok] social_security_code_2020.pdf                                          17 KB
+2026-05-17 17:17:45,712  INFO      [4/31] The Industrial Relations Code, 2020
+2026-05-17 17:17:46,321  INFO          [ok] industrial_relations_code_2020.pdf                                     17 KB
+2026-05-17 17:17:47,826  INFO      [5/31] The Occupational Safety, Health And Working Conditions Code, 2020
+2026-05-17 17:17:48,464  INFO          [ok] osh_code_2020.pdf                                                      17 KB
+2026-05-17 17:17:49,968  INFO      [6/31] The Child And Adolescent Labour (Prohibition And Regulation) Act, 1986
+2026-05-17 17:17:50,558  INFO          [ok] child_labour_act_1986.pdf                                              17 KB
+2026-05-17 17:17:52,063  INFO      [7/31] The Bonded Labour System (Abolition) Act, 1976
+2026-05-17 17:17:52,654  INFO          [ok] bonded_labour_act_1976.pdf                                             17 KB
+2026-05-17 17:17:54,159  INFO      [8/31] The Labour Laws Simplification Act, 1988
+2026-05-17 17:17:54,856  INFO          [ok] labour_laws_simplification_1988.pdf                                    17 KB
+2026-05-17 17:17:56,360  INFO      [9/31] The Provident Funds Act, 1925
+2026-05-17 17:17:57,021  INFO          [ok] provident_funds_act_1925.pdf                                           17 KB
+2026-05-17 17:17:58,524  INFO      [10/31] The Contract Labour (Regulation And Abolition) Act, 1970
+2026-05-17 17:17:59,299  INFO          [ok] contract_labour_act.pdf                                                113 KB
+2026-05-17 17:18:00,803  INFO      [11/31] The Minimum Wages Act, 1948
+2026-05-17 17:18:01,465  INFO          [ok] minimum_wages_act_1948.pdf                                             17 KB
+2026-05-17 17:18:02,971  INFO      [12/31] The Payment Of Wages Act, 1936
+2026-05-17 17:18:03,674  INFO          [ok] payment_of_wages_act_1936.pdf                                          17 KB
+2026-05-17 17:18:05,178  INFO      [13/31] The Payment Of Gratuity Act, 1972
+2026-05-17 17:18:05,779  INFO          [ok] payment_of_gratuity_act_1972.pdf                                       17 KB
+2026-05-17 17:18:07,284  INFO      [14/31] The Payment Of Bonus Act, 1965
+2026-05-17 17:18:07,903  INFO          [ok] payment_of_bonus_act_1965.pdf                                          17 KB
+2026-05-17 17:18:09,406  INFO      [15/31] The Maternity Benefit Act, 1961
+2026-05-17 17:18:10,005  INFO          [ok] maternity_benefit_act_1961.pdf                                         17 KB
+2026-05-17 17:18:11,508  INFO      [16/31] The Employees State Insurance Act, 1948
+2026-05-17 17:18:12,099  INFO          [ok] esi_act_1948.pdf                                                       17 KB
+2026-05-17 17:18:13,606  INFO      [17/31] The Employees Compensation Act, 1923
+2026-05-17 17:18:14,215  INFO          [ok] employees_compensation_act.pdf                                         17 KB
+2026-05-17 17:18:15,720  INFO      [18/31] The Factories Act, 1948
+2026-05-17 17:18:16,330  INFO          [ok] factories_act_1948.pdf                                                 17 KB
+2026-05-17 17:18:17,834  INFO      [19/31] The Industrial Disputes Act, 1947
+2026-05-17 17:18:18,447  INFO          [ok] industrial_disputes_act_1947.pdf                                       17 KB
+2026-05-17 17:18:19,952  INFO      [20/31] The Industrial Employment (Standing Orders) Act, 1946
+2026-05-17 17:18:20,550  INFO          [ok] standing_orders_act_1946.pdf                                           17 KB
+2026-05-17 17:18:22,055  INFO      [21/31] The Apprentices Act, 1961
+2026-05-17 17:18:22,687  INFO          [ok] apprentices_act_1961.pdf                                               17 KB
+2026-05-17 17:18:24,192  INFO      [22/31] The Equal Remuneration Act, 1976
+2026-05-17 17:18:24,812  INFO          [ok] equal_remuneration_act_1976.pdf                                        17 KB
+2026-05-17 17:18:26,316  INFO      [23/31] The Maternity Benefit Act, 1961
+2026-05-17 17:18:26,317  INFO          [skip] maternity_benefit_act_1961.pdf
+2026-05-17 17:18:27,818  INFO      [24/31] The InterState Migrant Workmen Act, 1979
+2026-05-17 17:18:28,531  INFO          [ok] interstate_migrant_workmen_act.pdf                                     17 KB
+2026-05-17 17:18:30,034  INFO      [25/31] The Building And Other Construction Workers Act, 1996
+2026-05-17 17:18:30,662  INFO          [ok] bocw_act_1996.pdf                                                      17 KB
+2026-05-17 17:18:32,165  INFO      [26/31] The BOCW Welfare Cess Act, 1996
+2026-05-17 17:18:32,730  INFO          [ok] bocw_cess_act_1996.pdf                                                 17 KB
+2026-05-17 17:18:34,236  INFO      [27/31] The Sexual Harassment Of Women At Workplace Act, 2013
+2026-05-17 17:18:34,844  INFO          [ok] posh_act_2013.pdf                                                      17 KB
+2026-05-17 17:18:36,348  INFO      [28/31] The Rights Of Persons With Disabilities Act, 2016
+2026-05-17 17:18:36,985  INFO          [ok] rpwd_act_2016.pdf                                                      17 KB
+2026-05-17 17:18:38,489  INFO      [29/31] The Transgender Persons (Protection Of Rights) Act, 2019
+2026-05-17 17:18:39,150  INFO          [ok] transgender_protection_act_2019.pdf                                    17 KB
+2026-05-17 17:18:40,653  INFO      [30/31] Employment Exchanges (Compulsory Notification Of Vacancies) Act, 1959
+2026-05-17 17:18:41,292  INFO          [ok] employment_exchanges_act_1959.pdf                                      17 KB
+2026-05-17 17:18:42,795  INFO      [31/31] The Sales Promotion Employees (Conditions Of Service) Act, 1976
+2026-05-17 17:18:43,430  INFO          [ok] sales_promotion_employees_act.pdf                                      17 KB
+2026-05-17 17:18:44,933  INFO      ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-05-17 17:18:44,936  INFO      SOURCE 1b — indiacode.nic.in  State Acts
+2026-05-17 17:18:44,936  INFO        State: Andaman and Nicobar Islands  https://www.indiacode.nic.in/handle/123456789/2454/browse?type=title&order=ASC&rpp=100
+2026-05-17 17:18:45,545  INFO          Found 0 labour-related acts for Andaman and Nicobar Islands
+2026-05-17 17:18:45,546  INFO        State: Andhra Pradesh             https://www.indiacode.nic.in/handle/123456789/2486/browse?type=title&order=ASC&rpp=100
+2026-05-17 17:18:46,144  INFO          Found 0 labour-related acts for Andhra Pradesh
+2026-05-17 17:18:46,144  INFO        State: Arunachal Pradesh          https://www.indiacode.nic.in/handle/123456789/2487/browse?type=title&order=ASC&rpp=100
+2026-05-17 17:18:46,714  INFO          Found 0 labour-related acts for Arunachal Pradesh
+2026-05-17 17:18:46,715  INFO        State: Assam                      https://www.indiacode.nic.in/handle/123456789/2513/browse?type=title&order=ASC&rpp=100
+2026-05-17 17:18:47,353  INFO          Found 0 labour-related acts for Assam
+2026-05-17 17:18:47,353  INFO        State: Bihar                      https://www.indiacode.nic.in/handle/123456789/2488/browse?type=title&order=ASC&rpp=100
+2026-05-17 17:18:47,973  INFO          Found 0 labour-related acts for Bihar
+2026-05-17 17:18:47,974  INFO        State: Chandigarh                 https://www.indiacode.nic.in/handle/123456789/2489/browse?type=title&order=ASC&rpp=100
+2026-05-17 17:18:48,589  INFO          Found 0 labour-related acts for Chandigarh
+2026-05-17 17:18:48,589  INFO        State: Chhattisgarh               https://www.indiacode.nic.in/handle/123456789/2490/browse?type=title&order=ASC&rpp=100
+2026-05-17 17:18:49,188  INFO          Found 0 labour-related acts for Chhattisgarh
+2026-05-17 17:18:49,189  INFO        State: Delhi                      https://www.indiacode.nic.in/handle/123456789/2493/browse?type=title&order=ASC&rpp=100
+2026-05-17 17:18:49,763  INFO          Found 0 labour-related acts for Delhi
+2026-05-17 17:18:49,764  INFO        State: Goa                        https://www.indiacode.nic.in/handle/123456789/2514/browse?type=title&order=ASC&rpp=100
+2026-05-17 17:18:50,353  INFO          Found 0 labour-related acts for Goa
+2026-05-17 17:18:50,354  INFO        State: Gujarat                    https://www.indiacode.nic.in/handle/123456789/2455/browse?type=title&order=ASC&rpp=100
+2026-05-17 17:18:50,972  INFO          Found 0 labour-related acts for Gujarat
+2026-05-17 17:18:50,974  INFO        State: Haryana                    https://www.indiacode.nic.in/handle/123456789/2193/browse?type=title&order=ASC&rpp=100
+2026-05-17 17:18:51,576  INFO          Found 0 labour-related acts for Haryana
+2026-05-17 17:18:51,576  INFO        State: Himachal Pradesh           https://www.indiacode.nic.in/handle/123456789/2494/browse?type=title&order=ASC&rpp=100
+2026-05-17 17:18:52,151  INFO          Found 0 labour-related acts for Himachal Pradesh
+2026-05-17 17:18:52,151  INFO        State: Jammu and Kashmir          https://www.indiacode.nic.in/handle/123456789/2495/browse?type=title&order=ASC&rpp=100
+2026-05-17 17:18:52,751  INFO          Found 0 labour-related acts for Jammu and Kashmir
+2026-05-17 17:18:52,752  INFO        State: Jharkhand                  https://www.indiacode.nic.in/handle/123456789/2515/browse?type=title&order=ASC&rpp=100
+2026-05-17 17:18:53,375  INFO          Found 0 labour-related acts for Jharkhand
+2026-05-17 17:18:53,375  INFO        State: Karnataka                  https://www.indiacode.nic.in/handle/123456789/2485/browse?type=title&order=ASC&rpp=100
+2026-05-17 17:18:53,980  INFO          Found 0 labour-related acts for Karnataka
+2026-05-17 17:18:53,980  INFO        State: Kerala                     https://www.indiacode.nic.in/handle/123456789/2516/browse?type=title&order=ASC&rpp=100
+2026-05-17 17:18:54,572  INFO          Found 0 labour-related acts for Kerala
+2026-05-17 17:18:54,573  INFO        State: Ladakh                     https://www.indiacode.nic.in/handle/123456789/14011/browse?type=title&order=ASC&rpp=100
+2026-05-17 17:18:55,171  INFO          Found 0 labour-related acts for Ladakh
+2026-05-17 17:18:55,171  INFO        State: Madhya Pradesh             https://www.indiacode.nic.in/handle/123456789/2497/browse?type=title&order=ASC&rpp=100
+2026-05-17 17:18:55,765  INFO          Found 0 labour-related acts for Madhya Pradesh
+2026-05-17 17:18:55,766  INFO        State: Maharashtra                https://www.indiacode.nic.in/handle/123456789/2517/browse?type=title&order=ASC&rpp=100
+2026-05-17 17:18:56,361  INFO          Found 0 labour-related acts for Maharashtra
+2026-05-17 17:18:56,361  INFO        State: Manipur                    https://www.indiacode.nic.in/handle/123456789/2498/browse?type=title&order=ASC&rpp=100
+2026-05-17 17:18:56,943  INFO          Found 0 labour-related acts for Manipur
+2026-05-17 17:18:56,943  INFO        State: Meghalaya                  https://www.indiacode.nic.in/handle/123456789/2499/browse?type=title&order=ASC&rpp=100
+2026-05-17 17:18:57,621  INFO          Found 0 labour-related acts for Meghalaya
+2026-05-17 17:18:57,621  INFO        State: Mizoram                    https://www.indiacode.nic.in/handle/123456789/2500/browse?type=title&order=ASC&rpp=100
+2026-05-17 17:18:58,240  INFO          Found 0 labour-related acts for Mizoram
+2026-05-17 17:18:58,240  INFO        State: Nagaland                   https://www.indiacode.nic.in/handle/123456789/2501/browse?type=title&order=ASC&rpp=100
+2026-05-17 17:18:58,858  INFO          Found 0 labour-related acts for Nagaland
+2026-05-17 17:18:58,858  INFO        State: Odisha                     https://www.indiacode.nic.in/handle/123456789/2502/browse?type=title&order=ASC&rpp=100
+2026-05-17 17:18:59,429  INFO          Found 0 labour-related acts for Odisha
+2026-05-17 17:18:59,430  INFO        State: Puducherry                 https://www.indiacode.nic.in/handle/123456789/2503/browse?type=title&order=ASC&rpp=100
+2026-05-17 17:19:00,014  INFO          Found 0 labour-related acts for Puducherry
+2026-05-17 17:19:00,015  INFO        State: Punjab                     https://www.indiacode.nic.in/handle/123456789/2504/browse?type=title&order=ASC&rpp=100
+2026-05-17 17:19:00,656  INFO          Found 0 labour-related acts for Punjab
+2026-05-17 17:19:00,657  INFO        State: Rajasthan                  https://www.indiacode.nic.in/handle/123456789/2505/browse?type=title&order=ASC&rpp=100
+2026-05-17 17:19:01,304  INFO          Found 0 labour-related acts for Rajasthan
+2026-05-17 17:19:01,304  INFO        State: Sikkim                     https://www.indiacode.nic.in/handle/123456789/2506/browse?type=title&order=ASC&rpp=100
+2026-05-17 17:19:01,891  INFO          Found 0 labour-related acts for Sikkim
+2026-05-17 17:19:01,891  INFO        State: Tamil Nadu                 https://www.indiacode.nic.in/handle/123456789/2507/browse?type=title&order=ASC&rpp=100
+2026-05-17 17:19:02,488  INFO          Found 0 labour-related acts for Tamil Nadu
+2026-05-17 17:19:02,488  INFO        State: Telangana                  https://www.indiacode.nic.in/handle/123456789/2508/browse?type=title&order=ASC&rpp=100
+2026-05-17 17:19:03,091  INFO          Found 0 labour-related acts for Telangana
+2026-05-17 17:19:03,093  INFO        State: Tripura                    https://www.indiacode.nic.in/handle/123456789/2509/browse?type=title&order=ASC&rpp=100
+2026-05-17 17:19:03,708  INFO          Found 0 labour-related acts for Tripura
+2026-05-17 17:19:03,709  INFO        State: Uttar Pradesh              https://www.indiacode.nic.in/handle/123456789/2510/browse?type=title&order=ASC&rpp=100
+2026-05-17 17:19:04,315  INFO          Found 0 labour-related acts for Uttar Pradesh
+2026-05-17 17:19:04,316  INFO        State: Uttarakhand                https://www.indiacode.nic.in/handle/123456789/2511/browse?type=title&order=ASC&rpp=100
+2026-05-17 17:19:04,933  INFO          Found 0 labour-related acts for Uttarakhand
+2026-05-17 17:19:04,933  INFO        State: West Bengal                https://www.indiacode.nic.in/handle/123456789/2512/browse?type=title&order=ASC&rpp=100
+2026-05-17 17:19:05,511  INFO          Found 0 labour-related acts for West Bengal
+2026-05-17 17:19:05,511  INFO      ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-05-17 17:19:05,512  INFO      SOURCE 2 — labour.gov.in  Acts & Rules
+2026-05-17 17:19:05,512  INFO        Page: https://labour.gov.in/acts-rules
+2026-05-17 17:19:06,983  INFO        Page: https://labour.gov.in/labour-codes
+2026-05-17 17:19:08,349  INFO        Page: https://labour.gov.in/gazette-notifications
+2026-05-17 17:19:09,598  INFO        Page: https://labour.gov.in/circulars
+2026-05-17 17:19:10,965  INFO      ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-05-17 17:19:10,966  INFO      SOURCE 3 — egazette.gov.in  Gazette Notifications
+2026-05-17 17:19:12,808  INFO      ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-05-17 17:19:12,808  INFO      SOURCE 4 — epfindia.gov.in  EPFO Circulars
+2026-05-17 17:19:14,668  INFO      ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-05-17 17:19:14,668  INFO      SOURCE 5 — esic.gov.in  ESIC Circulars
+2026-05-17 17:19:15,508  INFO          [skip] ESIC_at_a_Glance_._size_(170_KB).pdf
+2026-05-17 17:19:17,013  INFO          [skip] Citizens’_Charter_-_PDF_size_(19.00_MB).pdf
+2026-05-17 17:19:18,514  INFO          [skip] List_of_Holidays_-_PDF_size_(3.20_MB).pdf
+2026-05-17 17:19:20,695  INFO          [ok] Implementation_of_OTP_based_Multi-Factor_Authentication_(MFA)_in_the_E 204 KB
+2026-05-17 17:19:23,097  INFO          [ok] Grant_of_Further_extension_of_time_to_138_candidates_for_joining_the_p 607 KB
+2026-05-17 17:19:26,094  INFO          [ok] Monitoring,_Management,_and_Disposal_of_Near-Expiry,_Expired,_and_Slow 1600 KB
+2026-05-17 17:19:28,959  INFO          [ok] Enclosures_Related_Circular-_PDF_size_(1.21_MB).pdf                    1235 KB
+2026-05-17 17:19:31,331  INFO          [ok] Guidance_document_on_disposal_issued_by_CDSCO-_PDF_size_(587.66_KB).pd 587 KB
+2026-05-17 17:19:33,610  INFO          [ok] Office_Order_No._79_of_2026_dated_11.05.2026_(English)-_PDF_size_(275. 275 KB
+2026-05-17 17:19:35,796  INFO          [ok] Implementation_of_OTP_based_Multi-Factor_Authentication_(MFA)_in_the_E 221 KB
+2026-05-17 17:19:38,255  INFO          [ok] Employee_Details_Updation-_PDF_size_(403.18_KB).pdf                    403 KB
+2026-05-17 17:19:42,659  INFO          [ok] HRMS_2.0_Employee_Mobile_No._Updation-_PDF_size_(3.52_MB).pdf          3608 KB
+2026-05-17 17:19:45,190  INFO          [ok] Corrigendum_in_r_o_e-Tender_Enquiries_Nos._170,_171,_172,_173,_174_&_1 444 KB
+2026-05-17 17:19:47,644  INFO          [ok] Implementation_of_decisions_taken_in_MoM_dated_23.04.2026_on_D.O_Lette 537 KB
+2026-05-17 17:19:50,172  INFO          [ok] Enclosure-_PDF_size_(571.82_KB).pdf                                    571 KB
+2026-05-17 17:19:52,478  INFO          [ok] Ensuring_Written_instruction_to_panel_counsel_in_Litigation_Matters_an 439 KB
+2026-05-17 17:19:54,775  INFO          [ok] Instructions_regarding_handling_of_Contempt_cases_(English)-_PDF_size_ 374 KB
+2026-05-17 17:19:56,936  INFO          [ok] Notification_under_Section_1(4)_of_Code_on_Social_Security_in_the_enti 230 KB
+2026-05-17 17:19:59,349  INFO          [ok] The_Gazette_of_India_-_PDF_size_(585.87_KB).pdf                        585 KB
+2026-05-17 17:20:01,876  INFO          [skip] ESIC_at_a_Glance_._size_(170_KB).pdf
+2026-05-17 17:20:04,284  INFO          [skip] ESIC_at_a_Glance_._size_(170_KB).pdf
+2026-05-17 17:20:05,787  INFO      ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-05-17 17:20:05,787  INFO      SOURCE 6 — clc.gov.in  Min Wages & Notifications
+2026-05-17 17:20:09,672  INFO          [ok] 3.31_MB.pdf                                                            3385 KB
+2026-05-17 17:20:12,128  INFO          [ok] 457.14_KB.pdf                                                          457 KB
+2026-05-17 17:20:16,307  INFO          [ok] 4.84_MB.pdf                                                            4953 KB
+2026-05-17 17:20:18,810  INFO          [ok] 617.58_KB.pdf                                                          617 KB
+2026-05-17 17:20:21,875  INFO          [ok] 2.33_MB.pdf                                                            2388 KB
+2026-05-17 17:20:25,237  INFO          [ok] 2.59_MB.pdf                                                            2652 KB
+2026-05-17 17:20:27,494  INFO          [ok] 371.53_KB.pdf                                                          371 KB
+2026-05-17 17:20:29,847  INFO          [ok] 376.82_KB.pdf                                                          376 KB
+2026-05-17 17:20:32,153  INFO          [ok] 363.79_KB.pdf                                                          363 KB
+2026-05-17 17:20:36,675  INFO          [ok] 4.98_MB.pdf                                                            5102 KB
+2026-05-17 17:20:39,187  WARNING     GET failed: https://clc.gov.in/clc/notifications — 404 Client Error: Not Found for url: https://clc.gov.in/clc/notifications
+2026-05-17 17:20:42,798  WARNING     GET failed: https://clc.gov.in/clc/acts-rules — 404 Client Error: Not Found for url: https://clc.gov.in/clc/acts-rules
+2026-05-17 17:20:44,301  INFO      ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-05-17 17:20:44,302  INFO      SOURCE 7 — legislative.gov.in  Central Acts (backup)
+2026-05-17 17:20:46,952  INFO      
+2026-05-17 17:20:46,952  INFO      ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-05-17 17:20:46,952  INFO        Total records : 62
+2026-05-17 17:20:46,953  INFO        Downloaded    : 62
+2026-05-17 17:20:46,955  INFO        Failed        : 0
+2026-05-17 17:20:46,955  INFO        Log saved     : E:\AICA 2\LABOUR LAW COMPILER\download_log_20260517_1717.xlsx
+2026-05-17 17:20:46,956  INFO        Time taken    : 187s
+2026-05-17 17:20:46,957  INFO      ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

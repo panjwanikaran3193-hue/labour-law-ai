@@ -1,0 +1,91 @@
+# ============================================================
+#  Labour Law AI Platform — requirements.txt
+#  Python 3.10+  |  Windows compatible
+#  Powered by Anthropic Claude APIs
+#  Install:  pip install -r requirements.txt
+# ============================================================
+
+# ── Streamlit UI ─────────────────────────────────────────────
+streamlit>=1.35.0          # Main web UI framework
+streamlit-extras>=0.3.6    # Extra widgets (progress, badges, etc.)
+
+# ── FastAPI + server ─────────────────────────────────────────
+fastapi>=0.111.0           # REST API gateway
+uvicorn[standard]>=0.29.0  # ASGI server (runs FastAPI)
+python-multipart>=0.0.9    # Form / file upload support
+httpx>=0.27.0              # Async HTTP client (API calls)
+
+# ── Anthropic SDK (primary LLM provider) ─────────────────────
+anthropic>=0.28.0          # Official Anthropic Python SDK
+                           # Powers Claude claude-sonnet-4-6, Claude Haiku, Claude Opus
+                           # Supports: messages, streaming, vision, tool use
+                           # Get your key: https://console.anthropic.com
+
+# ── LangChain ecosystem ──────────────────────────────────────
+langchain>=0.2.0           # Core orchestration framework
+langchain-community>=0.2.0 # Community integrations (Chroma, etc.)
+langchain-anthropic>=0.1.0 # Official LangChain ↔ Anthropic adapter
+                           # Replaces langchain-openai; same chain/agent API
+langchain-text-splitters>=0.2.0  # Recursive chunking helpers
+
+# ── Vector database (embeddings) ─────────────────────────────
+chromadb>=0.5.0            # Local persistent vector store
+
+# ── Embedding models ─────────────────────────────────────────
+# NOTE: Anthropic does not provide an embeddings API.
+# sentence-transformers runs fully offline — no API key needed.
+# This is the recommended pairing with Claude for RAG pipelines.
+sentence-transformers>=3.0.0    # HuggingFace sentence embeddings (offline)
+torch>=2.2.0                    # Required backend for sentence-transformers
+                                # CPU-only Windows build:
+                                # pip install torch --index-url https://download.pytorch.org/whl/cpu
+
+# ── PDF extraction ───────────────────────────────────────────
+pdfplumber>=0.11.0         # Extract text + tables from PDF
+pypdf>=4.2.0               # Lightweight PDF metadata & page splitting
+pdfminer.six>=20221105     # Low-level PDF text stream parser
+
+# ── OCR (scanned documents) ──────────────────────────────────
+pytesseract>=0.3.10        # Python wrapper for Tesseract OCR engine
+                           # Windows: install Tesseract binary from
+                           # https://github.com/UB-Mannheim/tesseract/wiki
+Pillow>=10.3.0             # Image handling (required by pytesseract)
+                           # Also used to send images to Claude vision API
+pdf2image>=1.17.0          # Convert PDF pages to images for OCR
+                           # Windows: also install poppler:
+                           # https://github.com/oschwartz10612/poppler-windows
+
+# ── Database (SQLite ORM) ────────────────────────────────────
+sqlalchemy>=2.0.30         # ORM for SQLite (quiz scores, gap logs, users)
+alembic>=1.13.0            # Database migrations
+
+# ── Semantic search utilities ────────────────────────────────
+scikit-learn>=1.5.0        # Cosine similarity, TF-IDF fallback search
+numpy>=1.26.0              # Numerical ops (vectors, similarity math)
+
+# ── Quiz engine ──────────────────────────────────────────────
+pydantic>=2.7.0            # Data validation for quiz question schemas
+pydantic-settings>=2.3.0   # Settings management with .env support
+
+# ── Background tasks / scheduling ────────────────────────────
+apscheduler>=3.10.0        # Schedule periodic tasks (re-embedding, gap scan)
+
+# ── Logging & monitoring ─────────────────────────────────────
+loguru>=0.7.2              # Structured, colourised logging
+rich>=13.7.0               # Pretty terminal output & progress bars
+
+# ── Configuration & environment ──────────────────────────────
+python-dotenv>=1.0.1       # Load .env files (API keys, paths)
+platformdirs>=4.2.0        # Cross-platform directory resolution (Windows safe)
+
+# ── Utilities ────────────────────────────────────────────────
+tqdm>=4.66.0               # Progress bars for batch processing
+click>=8.1.0               # CLI helpers (admin scripts)
+python-slugify>=8.0.4      # Safe filename generation
+chardet>=5.2.0             # Detect encoding of uploaded text files
+tabulate>=0.9.0            # Pretty-print tables in terminal output
+
+# ── Testing ──────────────────────────────────────────────────
+pytest>=8.2.0              # Test runner
+pytest-asyncio>=0.23.0     # Async test support
+httpx>=0.27.0              # Also used for TestClient in FastAPI tests
