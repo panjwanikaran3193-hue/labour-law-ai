@@ -1,0 +1,39 @@
+# Virtual environments
+.venv/
+.venvYou/
+__pycache__/
+
+# RAG / Knowledge base folders (large files, stay on Google Drive)
+acts/
+judgments/
+summaries/
+circulars/
+notifications/
+forms/
+faq/
+rules/
+embeddings/
+models/
+database/
+
+# Scrapers output / logs
+logs/
+scrapers/
+
+# Assets (images, icons)
+assets/
+
+# Secrets and config
+.env
+service_account.json
+*.json
+
+# Database files
+*.db
+*.sqlite
+
+# PDF files
+*.pdf
+
+# Streamlit local config (keep .streamlit folder but not secrets)
+.streamlit/secrets.toml
