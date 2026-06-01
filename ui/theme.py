@@ -81,7 +81,10 @@ def apply_theme():
     st.markdown(
         '<style>'
         '@import url(\'https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@600;700;900&family=Nunito:wght@400;600;700;800&display=swap\');'
-        'section[data-testid="stSidebarNav"]{display:none!important;}'
+        'section[data-testid="stSidebarNav"]{display:none!important;height:0!important;overflow:hidden!important;visibility:hidden!important;min-height:0!important;max-height:0!important;}'
+        'div[data-testid="stSidebarNavItems"]{display:none!important;height:0!important;overflow:hidden!important;visibility:hidden!important;}'
+        'ul[data-testid="stSidebarNavItems"]{display:none!important;}'
+        '[data-testid="stSidebarNav"]+div{display:none!important;}'
         + bg_css +
         '[data-testid="stAppViewContainer"]>section,.main .block-container,'
         '[data-testid="stMain"],[data-testid="stBottom"]{background:transparent!important;}'
