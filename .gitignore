@@ -20,9 +20,6 @@ database/
 logs/
 scrapers/
 
-# Assets (images, icons)
-assets/
-
 # Secrets and config
 .env
 service_account.json
