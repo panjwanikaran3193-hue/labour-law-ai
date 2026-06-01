@@ -360,7 +360,7 @@ else:
                 <div class="msg-user">
                     <div>
                         <div class="bub-label" style="text-align:right;">YOU 👤</div>
-                        <div class="bub-user">{msg["content"]}</div>
+                        <div class="bub-user">{msg["content"].replace('<', '&lt;').replace('>', '&gt;')}</div>
                     </div>
                 </div>"""
             else:
