@@ -84,7 +84,6 @@ def apply_theme():
         'section[data-testid="stSidebarNav"]{display:none!important;height:0!important;overflow:hidden!important;visibility:hidden!important;min-height:0!important;max-height:0!important;}'
         'div[data-testid="stSidebarNavItems"]{display:none!important;height:0!important;overflow:hidden!important;visibility:hidden!important;}'
         'ul[data-testid="stSidebarNavItems"]{display:none!important;}'
-        '[data-testid="stSidebarNav"]+div{display:none!important;}'
         + bg_css +
         '[data-testid="stAppViewContainer"]>section,.main .block-container,'
         '[data-testid="stMain"],[data-testid="stBottom"]{background:transparent!important;}'
