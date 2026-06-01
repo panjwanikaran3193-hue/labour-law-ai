@@ -81,6 +81,7 @@ def apply_theme():
     st.markdown(
         '<style>'
         '@import url(\'https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@600;700;900&family=Nunito:wght@400;600;700;800&display=swap\');'
+        'section[data-testid="stSidebarNav"]{display:none!important;}'
         + bg_css +
         '[data-testid="stAppViewContainer"]>section,.main .block-container,'
         '[data-testid="stMain"],[data-testid="stBottom"]{background:transparent!important;}'
@@ -137,7 +138,7 @@ def sidebar_nav(current=""):
         st.markdown(
             '<div style="text-align:center;padding:1.2rem 0 0.8rem;">'
             f'<div style="font-family:\'Cormorant Garamond\',serif;font-size:1.4rem;font-weight:900;color:{tc};letter-spacing:0.04em;text-shadow:0 2px 8px rgba(0,0,0,0.9);">⚖️ Labour Law AI</div>'
-            f'<div style="font-size:0.7rem;color:{sc};margin-top:0.2rem;font-weight:700;letter-spacing:0.06em;text-shadow:0 1px 4px rgba(0,0,0,0.8);">POWERED BY CLAUDE AI</div>'
+            f'<div style="font-size:0.55rem;color:{sc};margin-top:0.2rem;font-weight:700;letter-spacing:0.06em;text-shadow:0 1px 4px rgba(0,0,0,0.8);">POWERED BY CLAUDE AI</div>'
             '</div><hr style="border:1px solid rgba(255,255,255,0.1);margin:0 0 0.8rem;">',
             unsafe_allow_html=True)
         for emoji,label,url in [("🏡","Home","/"),("📚","Knowledge Digest","/digest"),
@@ -149,7 +150,10 @@ def sidebar_nav(current=""):
             st.markdown(
                 f'<a href="{url}" style="display:flex;align-items:center;gap:0.6rem;padding:0.5rem 0.8rem;margin-bottom:0.3rem;border-radius:12px;background:{bg};backdrop-filter:blur(8px);border:1.5px solid {bd};text-decoration:none;font-weight:700;color:{tc};font-size:0.88rem;text-shadow:0 1px 6px rgba(0,0,0,0.9);box-shadow:0 2px 8px rgba(0,0,0,0.3);transition:all 0.15s;"><span style="font-size:1.05rem;">{emoji}</span> {label}</a>',
                 unsafe_allow_html=True)
-        st.markdown(f'<div style="padding:1rem 0 0.3rem;text-align:center;font-size:0.65rem;color:{sc};opacity:0.55;letter-spacing:0.05em;">🌱 LABOUR LAW AI V2.0</div><div style="text-align:center;font-size:0.6rem;color:{sc};opacity:0.45;letter-spacing:0.04em;">Created by CA Karan Panjwani</div>', unsafe_allow_html=True)
+        st.markdown(
+            f'<div style="padding:1rem 0 0.3rem;text-align:center;font-size:0.65rem;color:{sc};opacity:0.55;letter-spacing:0.05em;">🌱 LABOUR LAW AI V2.0</div>'
+            f'<div style="text-align:center;font-size:0.75rem;color:{sc};opacity:0.7;letter-spacing:0.04em;font-weight:600;">Created by CA Karan Panjwani</div>',
+            unsafe_allow_html=True)
 
 def back_button():
     st.markdown('<a href="/" class="back-btn">← Back to Dashboard</a>', unsafe_allow_html=True)
