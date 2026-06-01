@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "labourlawai",
+  "private_key_id": "2f0e942b576074845513e0622b8c17e8139320a8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQC5tOal/4Ovnxk9\nf7+a/tjG+WheA6T7ElW+C67CUa/jxqWdXQ8srlbJzdWOwqCwWDlHxCOBouPYVmlZ\nYMqsO41NYkI4uvDlyy4zGwi9zXxeq+PDZF9QqPukqe+nQ/NKdNK/Uo2zvvz1FDW1\nDf7jR1v0GhngSXPwhZKZxJkpRWFBgCTZfRtcLI4l2+o2JT99LntHcBiWhb/Fo+5N\nRXX4WtnPSgpaspBAbhIa13Uf4eS26sT6Zkskwkzx6wdNKPPIufk/XdUnqVNHv35b\nA/NyCQL68B2Z/QGUMqaYdlbBg61LayLwNbeAIBdseUQNNLXC5DuuklM7I+wWleV2\nHCeMeooVAgMBAAECgf9zlM6j17lzlOd2CgyMa2aAcLqEc8A7LoOEb8D/2yzzQgUn\nQW7bCvxOnc2iYir2QUgQDVi2rAB4pU+W+/x94JK8QcD1jg8LoWnKZQkLw4OkvgGu\n8B8Nah81B+TLi382LX+oPw6de5afnUnQEOXojywBbD1ZWwjN/6npX8iekeVLiLsO\nNZGZhU85ZjIMEPkQ5xL2NzsTmZSwkefnQEhc9sZW32K2Q8527pqMWKFB/r8qqnz8\n9mqbv6u0IDeCeVQln2FS+Po/0k6BrqYihm+GsgEsi2SkPA7j3cTH+6Hju+QEOOuu\nGxUlukIsdV104+VNmIhPgdOJw2DKIo0a6CSgQXkCgYEA7ODa5ICHp7LnhLaXgBvV\nTYokIP9tRpVM59tEmGcYDSboNEGT+YxionHv3HN2A9XRRzcQrLN1Dhmbm41fUAUW\nGyEF6hyE61rs/CnYhRX7vAmJy//Ofzhc5Xh99PXfO4PXcJ1nQcy2vDZL/Dt2xxDB\nJgN6e38c3fg4oJlpM2Pbr0cCgYEAyLKSNyo6d/80hoWPUnKvtw/X+cxjd6b+PFAC\ntXv6RtCUnxEcrz0Ipg0iwgM/9G9uqjwu8Zvhrx9U54PEAhjfih7ZCkkOFxAv+4YL\nc6IAGzyRUuj45k8aUcIcIs27Sox7snrucHlXB9J7JJvGeI+bULsYsaL63ywAEZkE\nfxXFQcMCgYAwLiQXqhTthTQWCFWUVxTxqpFirNF7M87qseyn2wBHXIyKZHRGo8lE\nJUyWWF2+tfTVOVwI5I+AiLDf2Md0LTSr2/GqBpb6kAn32EMT/r6vJnmCpstHkR1E\nB1gHRSNcpZpia4GfHpZkfd7CtQ2Zu8ytgLOe/uHOPDi4YbvGGh+K7QKBgQDCcbgV\nuFUTg29ZUbctEy5I9xGx1CMefu1cc8xcFrTBvT3w6vxWj5R8hMeDHvDsmrWmO07k\nCLncGEgDUfcqbPzO7dosC+GZ2LYUQ6d+rZrayJCnuk3DnSoLwjvOQHLP5FHH9zBi\nSj1Wt8dVDZN5pPC+g7aGDDhw1kluw0jG88m8TwKBgDKYAqclUnOwrrOWtB6bEGZL\np75FvwpcLA9tD4uhbdGfW3r08GQ1CT2rmSms00hrgTPgu5tcdWJADN5uyQqKZnD8\nd9Q08iZVeZG7maMZ2+cnl6ESLQ0jnqPLWnBoyNMWm6IGQjlkWacU0Lryw6f9Z2sW\nXXmKlx9FayEVPZe9q5sb\n-----END PRIVATE KEY-----\n",
+  "client_email": "labourlawai-service@labourlawai.iam.gserviceaccount.com",
+  "client_id": "107914085794584637037",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/labourlawai-service%40labourlawai.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
