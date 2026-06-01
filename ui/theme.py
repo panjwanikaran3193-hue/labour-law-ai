@@ -1,6 +1,6 @@
 """theme.py - Background via Streamlit static serving from ui/static/"""
 import streamlit as st, shutil
-from datetime import datetime
+from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
 # theme.py lives in ui/ — so ROOT is ui/ and static is ui/static/
@@ -9,7 +9,8 @@ ROOT_DIR = UI_DIR.parent
 STATIC   = UI_DIR / "static"
 
 def get_time_of_day():
-    h = datetime.now().hour
+    IST = timezone(timedelta(hours=5, minutes=30))
+    h = datetime.now(IST).hour
     if 5 <= h < 12:   return "morning"
     elif 12 <= h < 17: return "afternoon"
     elif 17 <= h < 21: return "evening"
@@ -42,10 +43,13 @@ def _setup_static():
                 shutil.copy2(src, dst)
 
 def _get_bg_url(tod):
-    """Return Streamlit static URL if file exists in ui/static/."""
     for ext in ["jpg","jpeg","png"]:
-        if (STATIC / f"bg_{tod}.{ext}").exists():
-            return f"/app/static/bg_{tod}.{ext}"
+        src = ROOT_DIR / "assets" / f"bg_{tod}.{ext}"
+        if src.exists():
+            import base64
+            with open(src, "rb") as f:
+                b64 = base64.b64encode(f.read()).decode()
+            return f"data:image/{ext};base64,{b64}"
     return None
 
 _setup_static()
