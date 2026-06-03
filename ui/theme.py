@@ -3,7 +3,6 @@ import streamlit as st, shutil
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
-# theme.py lives in ui/ — so ROOT is ui/ and static is ui/static/
 UI_DIR   = Path(__file__).resolve().parent
 ROOT_DIR = UI_DIR.parent
 STATIC   = UI_DIR / "static"
@@ -30,7 +29,6 @@ FALLBACKS = {
 }
 
 def _setup_static():
-    """Copy background images from assets/ into ui/static/ automatically."""
     STATIC.mkdir(parents=True, exist_ok=True)
     assets = ROOT_DIR / "assets"
     if not assets.exists():
@@ -144,7 +142,7 @@ def sidebar_nav(current=""):
             '</div><hr style="border:1px solid rgba(255,255,255,0.1);margin:0 0 0.8rem;">',
             unsafe_allow_html=True)
         for emoji,label,url in [("🏡","Home","/"),("📚","Knowledge Digest","/digest"),
-               ("💬","Legal Q&A","/qa"),("🎯","Quiz","/quiz"),
+               ("🎯","Quiz","/quiz"),
                ("🧗","Rope Climb","/rope"),("🐕","GBoy Chat","/gboy")]:
             a  = current==label
             bg = "rgba(255,255,255,0.18)" if a else "rgba(255,255,255,0.07)"

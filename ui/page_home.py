@@ -21,20 +21,39 @@ st.markdown("""
     text-align:center; font-size:1.05rem; color:#2e7d32;
     font-weight:600; margin-bottom:2rem;
 }
+.branding-footer {
+    text-align:center;
+    margin-top:1.2rem;
+    margin-bottom:0.3rem;
+}
+.branding-name {
+    font-family:'Cormorant Garamond',serif;
+    font-size:1rem;
+    font-weight:700;
+    color:rgba(255,255,255,0.85);
+    letter-spacing:0.06em;
+    text-shadow:0 1px 6px rgba(0,0,0,0.8);
+}
+.branding-sub {
+    font-size:0.68rem;
+    color:rgba(255,255,255,0.45);
+    letter-spacing:0.04em;
+    margin-top:0.15rem;
+    font-family:'Nunito',sans-serif;
+}
 </style>
 """, unsafe_allow_html=True)
 
 st.markdown('<div class="hero-title">⚖️ Labour Law AI</div>', unsafe_allow_html=True)
 st.markdown('<div class="hero-sub">🌿 Your peaceful guide through the field of Indian Labour Law 🌿</div>', unsafe_allow_html=True)
 
-# 4 cards — NO Gap Detector (admin only)
-col1, col2, col3, col4 = st.columns(4)
+# 3 cards — Q&A removed
+_, col1, col2, col3, _ = st.columns([0.5, 1, 1, 1, 0.5])
 
 cards = [
     (col1, "📚", "Knowledge Digest", "Browse Acts, Rules & Judgments in plain language", "/digest"),
-    (col2, "💬", "Legal Q&A",        "Ask any labour law question instantly",             "/qa"),
-    (col3, "🎯", "Quiz",             "Test your knowledge with topic-based questions",    "/quiz"),
-    (col4, "🧗", "Rope Climb",       "Score 5/10 to reach the top!",                     "/rope"),
+    (col2, "🎯", "Quiz",             "Test your knowledge with topic-based questions",    "/quiz"),
+    (col3, "🧗", "Rope Climb",       "Score 5/10 to reach the top!",                     "/rope"),
 ]
 
 for col, emoji, title, desc, url in cards:
@@ -53,7 +72,6 @@ st.divider()
 # GBoy section
 col_a, col_b, col_c = st.columns([1,2,1])
 with col_b:
-    # Load avatar
     avatar_path = Path(__file__).parent.parent / "assets" / "gboy.png"
     if avatar_path.exists():
         import base64
@@ -98,4 +116,10 @@ with col_b:
         st.switch_page("pages/gboy.py")
 
 st.markdown('<div class="grass-strip">🌱🌿🍃🌾🌿🌱🌾🍃🌿🌱🌾🌿🍃</div>', unsafe_allow_html=True)
-st.markdown('<div style="text-align:center; font-size:0.72rem; color:rgba(27,94,32,0.6); margin-top:0.8rem; font-family:Nunito,sans-serif;">Labour Law AI — Powered by Claude AI (Anthropic) | Built for the working people of India</div>', unsafe_allow_html=True)
+
+st.markdown("""
+<div class="branding-footer">
+    <div class="branding-name">✦ Created by CA Karan Panjwani ✦</div>
+    <div class="branding-sub">Labour Law AI — Powered by Claude AI (Anthropic) | Built for the working people of India</div>
+</div>
+""", unsafe_allow_html=True)
